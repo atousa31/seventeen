@@ -1,0 +1,119 @@
+
+
+
+
+
+
+
+
+
+
+body
+{
+margin-bottom:20px;
+text-align: center;
+background:linear-gradient(LavenderBlush, rgb(249, 157, 173));
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+ 
+.line1
+{
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+width: 50px;
+height:25px;
+font-size:20px;
+background-color:rgb(255, 255, 255);
+color:rgba(127, 6, 84, 0.771);
+border:2px solid black;
+padding: 7px;
+text-decoration: none;
+display: inline-table;
+margin: 10px;
+}
+.line1:hover , .line2:hover , .line3:hover , .line4:hover , .line4V:hover , .line5:hover
+{
+ color: black;
+  background-color: rgba(134, 160, 241, 0.456);
+}
+.line2
+{
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+width: 50px;
+height:25px;
+font-size:20px;
+background-color:white;
+color:rgba(127, 6, 84, 0.771);
+border:2px solid black;
+text-decoration: none;
+padding: 5px;
+display: inline-table;
+margin: 10px 12px 10px 12px;
+
+}
+.line3
+{
+width: 50px;
+height:25px;
+font-size:20px;
+background-color:white;
+color:rgba(127, 6, 84, 0.771);
+border:2px solid black;
+text-decoration: none;
+padding: 5px;
+display: inline-table;
+margin: 10px 15px 10px 15px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+.line4
+{
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+width: 50px;
+height:25px;
+font-size:20px;
+background-color:white;
+color:rgba(127, 6, 84, 0.771);
+border:2px solid black;
+text-decoration: none;
+padding: 5px;
+display: inline-table;
+margin: 10px 5px 10px 5px;
+}
+
+.line4V
+{
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+width: 55px;
+height:25px;
+font-size:20px;
+background-color:white;
+color:rgba(127, 6, 84, 0.771);
+border:2px solid black;
+text-decoration: none;
+padding: 5px;
+display: inline-table;
+margin: 10px 5px 10px 5px;
+}
+
+
+.line5
+{
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+width: 50px;
+height:25px;
+font-size:20px;
+background-color:white;
+color:rgba(127, 6, 84, 0.771);
+border:2px solid black;
+padding: 5px;
+text-decoration: none;
+display: inline-table;
+margin: 10px;
+}
+h1 {
+font-weight: bold;
+color: rgba(74, 137, 254, 0.675);
+}
